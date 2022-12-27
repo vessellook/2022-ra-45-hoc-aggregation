@@ -1,7 +1,7 @@
 {
   "name": "hoc-aggregation",
   "version": "0.1.0",
-  "homepage": "https://github.com/vessellook/2022-ra-45-hoc-aggregation",
+  "homepage": "https://vessellook.github.io/2022-ra-45-hoc-aggregation",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
